@@ -1,0 +1,22 @@
+section{
+    background-color: #FFE6C9;
+    }
+    .text-holder button{
+        background-color: #681F50 !important;
+    }
+    h1{
+        color: #681F50;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .text-holder{
+        width: 45%;
+    }
+    .img-holder{
+        width: 55%;
+    }
+    .form-control:focus{
+        border-color:#681F50;
+        box-shadow:0 0 5px rgb(104, 31, 80);
+        
+    }

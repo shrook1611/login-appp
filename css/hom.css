@@ -1,0 +1,21 @@
+section{
+    background-image: url(../images/Capture.JPG);
+    background-size: cover;
+    background-position: center;
+  
+  
+height: 100vh;
+}
+
+h1{
+    color: #681F50;
+    font-size: 40px;
+    font-weight: 700;
+}
+.brand-color{
+    color:rgb(104, 31, 80) !important;
+}
+.btn-warning {
+  background-color:#681F50 !important ;
+
+}
